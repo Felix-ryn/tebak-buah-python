@@ -55,10 +55,11 @@ tebak-buah-python/
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/Felix-ryn/tebak-buah-python.git
 cd tebak-buah-python
-2. Install Dependencies
+
+
+### 2. Install Dependencies
 Create a virtual environment (optional):
 
 python -m venv venv
@@ -66,8 +67,9 @@ source venv/bin/activate       # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 Make sure your microphone is working and connected.
 
-3. Run the Application
+### 3. Run the Application
 python main.py
+
 🖼️ Fruit Images Folder
 The buah/ folder contains all fruit images used in the game.
 Example files:
